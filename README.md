@@ -1,2 +1,2 @@
-# GraphQL-Fullstack-demo
-A GraphQL full-stack application with Authentication
+# auth-graphql-starter
+Starter project from a GraphQL course on Udemy.com - Section 3!
